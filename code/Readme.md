@@ -14,10 +14,8 @@ This repository contains the source code for Attendify, a Flutter-based mobile a
 
 - **Flutter:** For cross-platform (iOS and Android) mobile app development.
 - **Dart:** The programming language used for Flutter.
-- **Firebase:** Used as the backend-as-a-service for:
-    - **Authentication:** Secure email/password and biometric logins.
-    - **Firestore:** A NoSQL database for storing user profiles, subjects, and attendance records.
-    - **Storage:** To store data for face verification.
+- **Firebase:** Used as the backend-as-a-service for: Authentication, Firestore, Storage.
+    
 
 ## Key Features
 

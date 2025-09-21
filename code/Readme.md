@@ -1,7 +1,3 @@
-# Attendify - SIH 2025 Submission
-
-This repository contains the source code for Attendify, a Flutter-based mobile application for automated student attendance and analytics.
-
 ## Tasks Accomplished
 
 - **Firebase Backend:** Successfully set up Firebase Authentication and Firestore for user and data management.

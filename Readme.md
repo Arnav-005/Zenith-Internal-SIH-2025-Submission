@@ -1,6 +1,9 @@
-# PS Chosen SIH Hackathon
+## Problem Statement Details
 
-This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
+- **ID:** SIH25016
+- **Title:** Automated Student Attendance Monitoring and Analytics System for Colleges
+- **Theme:** Smart Education
+- **Description:** The current manual process of attendance tracking in colleges is time-consuming, prone to errors like proxy attendance, and lacks analytical insights. This project aims to create a user-friendly, reliable system to automate attendance and provide analytics for better academic planning and identifying at-risk students.
 
 ## Team Details
 

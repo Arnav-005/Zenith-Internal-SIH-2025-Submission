@@ -4,23 +4,23 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** ZENITH
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@Arnav-005](https://github.com/Arnav-005)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_1** - 2023UEA6501 - [@Mayur710](https://github.com/Mayur710)
+- **MEMBER_2** - 2023UEA6503 - [@Harsh20221](https://github.com/Harsh20221)
+- **MEMBER_3** - 2023UEA6509 - [@kritiug23](https://github.com/kritiug23)
+- **MEMBER_4** - 2023UEA6510 - [@Arnav-005](https://github.com/Arnav-005)
+- **MEMBER_5** - 2023UEA6525 - [@amitkgangwar02](https://github.com/amitkgangwar02)
+- **MEMBER_6** - 2023UEA6537 - [@utkarshshovasariagotab1234-debug](https://github.com/utkarshshovasariagotab1234-debug)
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **SIH Presentation:** [Final SIH Presentation](https://drive.google.com/file/d/1OeZACbOc8LTh6A1LRw20WN7nfUg1DtJs/view?usp=sharing)
+- **Video Demonstration:** [Watch Video](https://youtu.be/KDMJ4rvzaLo)
+- **Live Deployment:** [NA]
+- **Source Code:** [GitHub Repository](https://github.com/Harsh20221/sih_new)
+- **Additional Resources:** [NA]

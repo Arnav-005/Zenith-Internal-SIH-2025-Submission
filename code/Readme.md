@@ -27,7 +27,7 @@
 - An active Firebase project.
 
 **Steps:**
-1. Clone the repository:
+1. Clone the repository(link given in the team details Readme):
    `git clone [YOUR_FINAL_REPO_LINK]`
 2. Navigate to the project directory:
    `cd Zenith-SIH-2025-Submission/code`

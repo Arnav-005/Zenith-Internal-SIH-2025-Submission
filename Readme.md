@@ -23,7 +23,7 @@
 ## Project Links
 
 - **SIH Presentation:** [Final SIH Presentation](https://drive.google.com/file/d/1OeZACbOc8LTh6A1LRw20WN7nfUg1DtJs/view?usp=sharing)
-- **Video Demonstration:** [Watch Video](https://youtu.be/KDMJ4rvzaLo)
+- **Video Demonstration:** [Watch Video](https://youtu.be/2sSvHqPgKWc)
 - **Live Deployment:** [NA]
 - **Source Code:** [GitHub Repository](https://github.com/Harsh20221/sih_new)
 - **Additional Resources:** [NA]
